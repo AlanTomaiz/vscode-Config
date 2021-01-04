@@ -1,5 +1,5 @@
 ## :fire: Configs
-//
+```bash
 {
     // Tema
     "workbench.colorTheme": "Omni",
@@ -60,3 +60,4 @@
     "terminal.integrated.fontSize": 16,
     "terminal.integrated.shell.linux": "/bin/zsh"
 }
+```
