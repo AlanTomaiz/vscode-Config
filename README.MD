@@ -1,9 +1,19 @@
 ## :fire: Configs
+
 ```bash
 {
     // Tema
     "workbench.colorTheme": "Omni",
     "workbench.iconTheme": "material-icon-theme",
+
+    "material-icon-theme.folders.associations": {
+        "infra": "app",
+        "entities": "class",
+        "migrations": "tools",
+        "repositories": "mappings",
+        "typeorm": "database",
+        "http": "container"
+    },
 
     // Tamanho e familia de fonte
     "editor.tabSize": 2,
