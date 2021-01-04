@@ -1,5 +1,5 @@
 ## :fire: Configs
-
+//
 {
     // Tema
     "workbench.colorTheme": "Omni",
